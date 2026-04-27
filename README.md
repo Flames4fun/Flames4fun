@@ -102,42 +102,84 @@ I also have a Machine Learning and Deep Learning foundation through **Andrew Ng 
 
 ---
 
-## 🚀 Projects I want recruiters to notice
+## 🚀 Work I want recruiters to notice
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🟥 Exploria Platform</h3>
-      <p>Local discovery platform with API, MCP server, shared contracts and conversational architecture.</p>
-      <p><b>Focus:</b> backend, MCP, APIs, Prisma, TypeScript, agent-ready architecture.</p>
-      <a href="https://github.com/Flames4fun/exploria-platform">
-        <img src="https://img.shields.io/badge/View%20project-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=E10600" alt="View Exploria Platform" />
+      <h3>🛡️ CSL Core Contributions</h3>
+      <p>
+        Open-source work around AI governance, MCP tool trust, LlamaIndex guards and deterministic policy enforcement for AI agents.
+      </p>
+      <p>
+        <b>Why it matters:</b> shows agent safety, MCP thinking, guardrails, policy design and real open-source contribution.
+      </p>
+      <a href="https://github.com/Chimera-Protocol/csl-core/pulls?q=is%3Apr+author%3AFlames4fun">
+        <img src="https://img.shields.io/badge/View%20CSL%20Core%20PRs-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=E10600" alt="View CSL Core PRs" />
       </a>
     </td>
     <td width="50%">
-      <h3>🧩 DataOps E-commerce Platform</h3>
-      <p>End-to-end data engineering project: ingestion, DuckDB warehouse, dbt models, tests and API serving.</p>
-      <p><b>Focus:</b> Python, SQL, dbt, DuckDB, FastAPI, data quality.</p>
-      <a href="https://github.com/Flames4fun/dataops-ecommerce-platform">
-        <img src="https://img.shields.io/badge/View%20project-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=E10600" alt="View DataOps project" />
+      <h3>🧬 LandmarkDiff Contributions</h3>
+      <p>
+        Contributions to computer-vision / ML tooling: ONNX runtime paths, TPS pipeline work, MediaPipe landmark wrappers and regression tests.
+      </p>
+      <p>
+        <b>Why it matters:</b> shows Python, ML pipelines, testing discipline and ability to work inside complex codebases.
+      </p>
+      <a href="https://github.com/dreamlessx/LandmarkDiff-public/pulls?q=is%3Apr+author%3AFlames4fun">
+        <img src="https://img.shields.io/badge/View%20LandmarkDiff%20PRs-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=E10600" alt="View LandmarkDiff PRs" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🛡️ CSL Core Contributions</h3>
-      <p>Open-source contributions around AI governance, MCP tool trust, LlamaIndex guards and policy-based execution.</p>
-      <p><b>Focus:</b> AI agents, guardrails, MCP, formal policy, open source.</p>
-      <a href="https://github.com/Chimera-Protocol/csl-core/pulls?q=is%3Apr+author%3AFlames4fun">
-        <img src="https://img.shields.io/badge/View%20PRs-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=E10600" alt="View CSL Core PRs" />
+      <h3>⚙️ Nadzoring Contribution</h3>
+      <p>
+        Async DNS benchmark API with safe sync/async behavior, fallback consistency and tests for a Python networking tool.
+      </p>
+      <p>
+        <b>Why it matters:</b> shows Python library work, async programming, API stability and production-minded behavior.
+      </p>
+      <a href="https://github.com/alexeev-prog/nadzoring/pull/53">
+        <img src="https://img.shields.io/badge/View%20Nadzoring%20PR-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=E10600" alt="View Nadzoring PR" />
       </a>
     </td>
     <td width="50%">
-      <h3>📊 CVVStatsfutboll</h3>
-      <p>Football data automation tools for collecting API data, exporting CSVs and building analysis-ready datasets.</p>
-      <p><b>Focus:</b> Python, APIs, automation, data extraction, CLI tools.</p>
-      <a href="https://github.com/Flames4fun/CVVStatsfutboll">
-        <img src="https://img.shields.io/badge/View%20project-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=E10600" alt="View CVVStatsfutboll" />
+      <h3>🐍 Hiero SDK Python Contribution</h3>
+      <p>
+        Small but clean contribution to a real Python SDK: return type hint improvement for better type checking and IDE support.
+      </p>
+      <p>
+        <b>Why it matters:</b> shows comfort with SDK contribution flow, scoped PRs, code quality and open-source standards.
+      </p>
+      <a href="https://github.com/hiero-ledger/hiero-sdk-python/pull/1655">
+        <img src="https://img.shields.io/badge/View%20Hiero%20SDK%20PR-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=E10600" alt="View Hiero SDK Python PR" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🧩 DataOps E-commerce Platform</h3>
+      <p>
+        End-to-end data engineering project: ingestion, DuckDB warehouse, dbt models, data tests, reconciliation and API serving.
+      </p>
+      <p>
+        <b>Why it matters:</b> shows data engineering, SQL modeling, quality gates and reproducible analytics pipelines.
+      </p>
+      <a href="https://github.com/Flames4fun/dataops-ecommerce-platform">
+        <img src="https://img.shields.io/badge/View%20DataOps%20Project-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=E10600" alt="View DataOps project" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🟥 Exploria Platform</h3>
+      <p>
+        Private product-style platform with API, MCP server, shared contracts and conversational architecture.
+      </p>
+      <p>
+        <b>Why it matters:</b> even if private, it represents backend architecture, MCP direction, product thinking and applied AI systems design.
+      </p>
+      <a href="https://github.com/Flames4fun/exploria-platform">
+        <img src="https://img.shields.io/badge/Private%20project%20summary-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=7A0000" alt="Private project summary" />
       </a>
     </td>
   </tr>
@@ -145,37 +187,42 @@ I also have a Machine Learning and Deep Learning foundation through **Andrew Ng 
 
 ---
 
-## 🔥 Open-source contributions
+## 🔥 Open-source contribution signal
 
 I use open source to practice real engineering: reading existing code, understanding maintainers' expectations, writing scoped PRs, adding tests and documenting behavior.
 
-### Highlighted contribution areas
+### Strongest contribution areas
 
 - **AI governance and agent safety**
-  - MCP tool trust policies.
+  - MCP tool trust policy.
   - LlamaIndex tool guard integration.
-  - Policy examples for AI agent execution.
+  - Safety policies for AI agent execution.
 
 - **Python libraries and tooling**
-  - Type hints.
   - Async APIs.
+  - Type hints.
   - CLI behavior.
   - Runtime stability.
+  - Tests and backward compatibility.
 
-- **Computer vision / ML tooling**
-  - TPS / RBF pipeline modularization.
+- **ML / computer vision infrastructure**
+  - TPS / RBF pipeline work.
   - ONNX runtime integration.
-  - Tests and documentation.
+  - MediaPipe landmark wrappers.
+  - Regression and parity tests.
 
 <p align="center">
   <a href="https://github.com/Chimera-Protocol/csl-core/pulls?q=is%3Apr+author%3AFlames4fun">
-    <img src="https://img.shields.io/badge/CSL%20Core-open%20source%20PRs-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=B00020" alt="CSL Core PRs" />
+    <img src="https://img.shields.io/badge/CSL%20Core-Agent%20Safety%20%26%20MCP-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=B00020" alt="CSL Core PRs" />
   </a>
   <a href="https://github.com/dreamlessx/LandmarkDiff-public/pulls?q=is%3Apr+author%3AFlames4fun">
-    <img src="https://img.shields.io/badge/LandmarkDiff-ML%20pipeline%20PRs-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=B00020" alt="LandmarkDiff PRs" />
+    <img src="https://img.shields.io/badge/LandmarkDiff-ML%20Pipeline%20PRs-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=B00020" alt="LandmarkDiff PRs" />
   </a>
-  <a href="https://github.com/alexeev-prog/nadzoring/pulls?q=is%3Apr+author%3AFlames4fun">
-    <img src="https://img.shields.io/badge/Nadzoring-Python%20tooling%20PRs-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=B00020" alt="Nadzoring PRs" />
+  <a href="https://github.com/alexeev-prog/nadzoring/pull/53">
+    <img src="https://img.shields.io/badge/Nadzoring-Async%20Python%20API-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=B00020" alt="Nadzoring PR" />
+  </a>
+  <a href="https://github.com/hiero-ledger/hiero-sdk-python/pull/1655">
+    <img src="https://img.shields.io/badge/Hiero%20SDK-Python%20SDK%20Contribution-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=B00020" alt="Hiero SDK Python PR" />
   </a>
 </p>
 
