@@ -6,7 +6,7 @@
   <a href="https://github.com/Flames4fun">
     <img src="https://img.shields.io/badge/GitHub-Flames4fun-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=E10600" alt="GitHub Flames4fun" />
   </a>
-  <a href="https://www.linkedin.com/in/luis-carlos-fuentes-de-avila/">
+  <a href="https://www.linkedin.com/in/luis-carlos-fuentes-de-avila-571153168/?trk=opento_sprofile_topcard">
     <img src="https://img.shields.io/badge/LinkedIn-Luis%20Carlos%20Fuentes-111111?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=E10600" alt="LinkedIn Luis Carlos Fuentes" />
   </a>
   <a href="mailto:luisayan100@gmail.com">
