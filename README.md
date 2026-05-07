@@ -232,28 +232,22 @@ I use open source to practice real engineering: reading existing code, understan
 
 <p align="center">
   <img
-    height="165"
-    src="https://ghstats.dev/api/card?username=Flames4fun&amp;bg=050505&amp;text=FFFFFF&amp;title_color=E10600&amp;icon_color=E10600&amp;border_color=E10600&amp;hide_border=true&amp;show_icons=true&amp;show_ring=true&amp;border_radius=8&amp;custom_title=GitHub%20Signal"
-    alt="GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://ghstats.dev/api/langs?username=Flames4fun&amp;layout=bar&amp;bg=050505&amp;text=FFFFFF&amp;title_color=E10600&amp;icon_color=E10600&amp;border_color=E10600&amp;hide_border=true&amp;border_radius=8&amp;custom_title=Top%20Languages"
-    alt="Top languages"
+    width="92%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Flames4fun&amp;bg_color=050505&amp;color=FFFFFF&amp;title_color=E10600&amp;line=E10600&amp;point=FFFFFF&amp;area=true&amp;area_color=7A0000&amp;hide_border=true&amp;radius=12&amp;height=260&amp;days=45&amp;grid=false&amp;custom_title=Flames4fun%20Contribution%20Signal"
+    alt="Flames4fun GitHub activity graph"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://ghstats.dev/api/sparkline?username=Flames4fun&amp;days=30&amp;width=720&amp;height=90&amp;line_color=E10600&amp;fill_color=7A0000&amp;hide_border=true&amp;border_radius=8&amp;title=30%20Day%20Activity"
-    alt="GitHub activity sparkline"
+    width="48%"
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/Flames4fun?cardType=github&amp;theme=dark&amp;background=050505&amp;border=E10600&amp;text=FFFFFF&amp;title=E10600&amp;icon=E10600&amp;ring=E10600"
+    alt="Flames4fun GitHub stats"
   />
-</p>
-
-<p align="center">
   <img
+    width="48%"
     src="https://streak-stats.demolab.com?user=Flames4fun&amp;theme=dark&amp;hide_border=true&amp;background=050505&amp;stroke=E10600&amp;ring=E10600&amp;fire=E10600&amp;currStreakLabel=FFFFFF&amp;sideLabels=FFFFFF&amp;dates=8B949E"
-    alt="GitHub streak"
+    alt="Flames4fun GitHub streak"
   />
 </p>
 
