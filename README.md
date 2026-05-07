@@ -231,12 +231,30 @@ I use open source to practice real engineering: reading existing code, understan
 ## 📈 GitHub signal
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Flames4fun&show_icons=true&hide_border=true&bg_color=050505&title_color=E10600&icon_color=E10600&text_color=FFFFFF" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flames4fun&layout=compact&hide_border=true&bg_color=050505&title_color=E10600&text_color=FFFFFF" alt="Top languages" />
+  <img
+    height="165"
+    src="https://ghstats.dev/api/card?username=Flames4fun&amp;bg=050505&amp;text=FFFFFF&amp;title_color=E10600&amp;icon_color=E10600&amp;border_color=E10600&amp;hide_border=true&amp;show_icons=true&amp;show_ring=true&amp;border_radius=8&amp;custom_title=GitHub%20Signal"
+    alt="GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://ghstats.dev/api/langs?username=Flames4fun&amp;layout=bar&amp;bg=050505&amp;text=FFFFFF&amp;title_color=E10600&amp;icon_color=E10600&amp;border_color=E10600&amp;hide_border=true&amp;border_radius=8&amp;custom_title=Top%20Languages"
+    alt="Top languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Flames4fun&theme=dark&hide_border=true&background=050505&stroke=E10600&ring=E10600&fire=E10600&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E" alt="GitHub streak" />
+  <img
+    src="https://ghstats.dev/api/sparkline?username=Flames4fun&amp;days=30&amp;width=720&amp;height=90&amp;line_color=E10600&amp;fill_color=7A0000&amp;hide_border=true&amp;border_radius=8&amp;title=30%20Day%20Activity"
+    alt="GitHub activity sparkline"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Flames4fun&amp;theme=dark&amp;hide_border=true&amp;background=050505&amp;stroke=E10600&amp;ring=E10600&amp;fire=E10600&amp;currStreakLabel=FFFFFF&amp;sideLabels=FFFFFF&amp;dates=8B949E"
+    alt="GitHub streak"
+  />
 </p>
 
 ---
