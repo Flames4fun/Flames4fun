@@ -230,25 +230,29 @@ I use open source to practice real engineering: reading existing code, understan
 
 ## 📈 GitHub signal
 
-<p align="center">
-  <img
-    width="92%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Flames4fun&amp;bg_color=050505&amp;color=FFFFFF&amp;title_color=E10600&amp;line=E10600&amp;point=FFFFFF&amp;area=true&amp;area_color=7A0000&amp;hide_border=true&amp;radius=12&amp;height=260&amp;days=45&amp;grid=false&amp;custom_title=Flames4fun%20Contribution%20Signal"
-    alt="Flames4fun GitHub activity graph"
-  />
-</p>
+
 
 <p align="center">
   <img
-    width="48%"
-    src="https://awesome-github-stats.azurewebsites.net/user-stats/Flames4fun?cardType=github&amp;theme=dark&amp;background=050505&amp;border=E10600&amp;text=FFFFFF&amp;title=E10600&amp;icon=E10600&amp;ring=E10600"
-    alt="Flames4fun GitHub stats"
+    width="97%"
+    src="https://ghstats.dev/api/sparkline?username=Flames4fun&days=30&width=900&height=110&line_color=E10600&fill_color=7A0000&hide_border=true&border_radius=10&title=30%20Day%20Activity"
+    alt="GitHub activity sparkline"
   />
+</p>
+<p align="center">
+ <img
+    width="49%"
+    src="https://ghstats.dev/api/card?username=Flames4fun&bg=050505&text=FFFFFF&title_color=E10600&icon_color=E10600&border_color=E10600&hide_border=true&show_icons=true&show_ring=true&border_radius=10&custom_title=GitHub%20Signal"
+    alt="GitHub stats"
+  />
+</p>
+<p align="center">
   <img
-    width="48%"
-    src="https://streak-stats.demolab.com?user=Flames4fun&amp;theme=dark&amp;hide_border=true&amp;background=050505&amp;stroke=E10600&amp;ring=E10600&amp;fire=E10600&amp;currStreakLabel=FFFFFF&amp;sideLabels=FFFFFF&amp;dates=8B949E"
-    alt="Flames4fun GitHub streak"
-  />
+    width="49%"
+    src="https://streak-stats.demolab.com?user=Flames4fun&theme=dark&hide_border=true&background=050505&stroke=E10600&ring=E10600&fire=E10600&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E"
+    alt="GitHub streak"
+  /> 
+  
 </p>
 
 ---
